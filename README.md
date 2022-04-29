@@ -6,4 +6,5 @@
 ### Технологии в проекте 
 - HTML
 - CSS
+- Js
 - Adaptive layout
