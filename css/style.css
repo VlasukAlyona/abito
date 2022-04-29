@@ -509,7 +509,9 @@ h2 {
         margin-bottom: 30px;
     }
 
-    .sidebar {
+    .sidebar-single {
+        max-width: 90%;
+        margin: 0 auto;
         text-align: center;
     }
 
@@ -522,6 +524,10 @@ h2 {
 @media (max-width: 610px) {
     .wrapper {
         max-width: 90%;
+    }
+
+    .page-single {
+        max-width: 100%;
     }
 
     .page-content {
